@@ -21,5 +21,5 @@ Un ejemplo de dashboard en otro contexto es este:
  1. Para un resumen General:
     ![Sketch1](assets/imgs/Principal.png)
 
- 2. Para evaluar data por sede y Promoción:
+ 2. Para evaluar data por sede, Promoción, Promedio de Notas Por SPRINT(HSE Y Técnico):
     ![Sketch1](assets/imgs/Principal.png)
