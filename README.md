@@ -22,4 +22,4 @@ Un ejemplo de dashboard en otro contexto es este:
     ![Sketch1](assets/imgs/Principal.png)
 
  2. Para evaluar data por sede, Promoción, Promedio de Notas Por SPRINT(HSE Y Técnico):
-    ![Sketch1](assets/imgs/Principal.png)
+    ![Sketch1](assets/imgs/Principal1.png)
